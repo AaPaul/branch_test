@@ -6,4 +6,5 @@ print("update from Paul")
 
 print("new content in br1")
 print("add content in br2 and merge to br1")
+print("add content to test stash")
 
